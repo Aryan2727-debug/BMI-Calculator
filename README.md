@@ -1,6 +1,6 @@
 # BMI-Calculator
 
-
+<img width="700" height="500" alt="image" src="https://user-images.githubusercontent.com/78311368/197231620-af03a5d8-d70c-4dcc-9519-3e88cd3a64d0.PNG">
 
 1) This is a BMI Calculator App built with the help of ReactJS.
 <br><br>
