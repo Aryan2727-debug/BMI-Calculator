@@ -1,0 +1,10 @@
+.header-wrapper{
+    background-color: #0b4a89;
+}
+
+.header{
+    color: white;
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
+}

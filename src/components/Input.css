@@ -1,0 +1,97 @@
+.input-wrapper{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.weight_input{
+    border: 1px solid white;
+    border-radius: 10px;
+    width: 500px;
+    height: 50px;
+}
+
+.weight_heading{
+    color: white;
+    position: absolute;
+    top: 17%;
+    left: 9%;
+}
+
+.height_input{
+    border: 1px solid white;
+    border-radius: 10px;
+    width: 500px;
+    height: 50px;
+}
+
+.height_heading{
+    color: white;
+    position: absolute;
+    top: 17%;
+    left: 59%;
+}
+
+.button-wrapper{
+    display: flex;
+    justify-content: center;
+}
+
+.btn{
+    padding: 10px;
+}
+
+.result-wrapper{
+    display: flex;
+    justify-content: space-around;
+}
+
+.result_div{
+    background-color: white;
+}
+
+.formula-wrapper{
+    position: absolute;
+    top: 45%;
+    left: 8%;
+}
+
+.status-wrapper{
+    position: absolute;
+    top: 85%;
+    left: 70%;
+}
+
+.status_div{
+    padding: 10px;
+}
+
+.chart-wrapper{
+    position: absolute;
+    top: 108%;
+    left: 8%;
+}
+
+.range-wrapper{
+    position: absolute;
+    top: 45%;
+    left: 70%;
+}
+
+.range_div{
+    background-color: white;
+    padding: 3px;
+}
+
+.info-wrapper{
+    position: absolute;
+    top: 75%;
+    left: 8%;
+}
+
+.info_div{
+    background-color: white;
+    padding: 5px;
+}
+
+
